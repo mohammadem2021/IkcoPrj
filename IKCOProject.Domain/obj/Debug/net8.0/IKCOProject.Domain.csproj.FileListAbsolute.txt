@@ -1,0 +1,11 @@
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\bin\Debug\net8.0\IKCOProject.Domain.deps.json
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\bin\Debug\net8.0\IKCOProject.Domain.dll
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\bin\Debug\net8.0\IKCOProject.Domain.pdb
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\obj\Debug\net8.0\IKCOProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\obj\Debug\net8.0\IKCOProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\obj\Debug\net8.0\IKCOProject.Domain.AssemblyInfo.cs
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\obj\Debug\net8.0\IKCOProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\obj\Debug\net8.0\IKCOProject.Domain.dll
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\obj\Debug\net8.0\refint\IKCOProject.Domain.dll
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\obj\Debug\net8.0\IKCOProject.Domain.pdb
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Domain\obj\Debug\net8.0\ref\IKCOProject.Domain.dll

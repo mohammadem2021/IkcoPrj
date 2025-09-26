@@ -1,0 +1,15 @@
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\bin\Debug\net8.0\IKCOProject.Application.deps.json
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\bin\Debug\net8.0\IKCOProject.Application.dll
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\bin\Debug\net8.0\IKCOProject.Application.pdb
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\bin\Debug\net8.0\IKCOProject.Domain.dll
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\bin\Debug\net8.0\IKCOProject.Domain.pdb
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\obj\Debug\net8.0\IKCOProject.Application.csproj.AssemblyReference.cache
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\obj\Debug\net8.0\IKCOProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\obj\Debug\net8.0\IKCOProject.Application.AssemblyInfoInputs.cache
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\obj\Debug\net8.0\IKCOProject.Application.AssemblyInfo.cs
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\obj\Debug\net8.0\IKCOProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\obj\Debug\net8.0\IKCOProj.59F0DC4E.Up2Date
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\obj\Debug\net8.0\IKCOProject.Application.dll
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\obj\Debug\net8.0\refint\IKCOProject.Application.dll
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\obj\Debug\net8.0\IKCOProject.Application.pdb
+C:\Users\Mohammad\source\repos\IKCOProject\IKCOProject.Application\obj\Debug\net8.0\ref\IKCOProject.Application.dll

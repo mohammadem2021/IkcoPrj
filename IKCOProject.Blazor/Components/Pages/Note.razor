@@ -1,0 +1,52 @@
+﻿@page "/"
+@using BlazorBootstrap
+@using IKCOProject.Blazor.Components.Model
+<Button Color="ButtonColor.Primary" @onclick="()=>CreateNoteModal.ShowAsync()">ثبت یاداشت جدید</Button>
+<br/>
+<br />
+<Grid @ref="gride" TItem="NoteVm"
+      Class="table table-hover table-bordered table-striped"
+      Data="Notes"  >
+
+    <GridColumns>
+        <GridColumn TItem="NoteVm" HeaderText="کد" HeaderTextAlignment="Alignment.Center" TextAlignment="Alignment.Center" >
+            @context.Id
+        </GridColumn>
+        <GridColumn TItem="NoteVm" HeaderText="موضوع" HeaderTextAlignment="Alignment.Center" TextAlignment="Alignment.Center">
+            @context.Title
+        </GridColumn>
+        <GridColumn TItem="NoteVm" HeaderText="متن" HeaderTextAlignment="Alignment.Center" TextAlignment="Alignment.Center">
+            @context.Content
+        </GridColumn>
+        <GridColumn TItem="NoteVm" HeaderText="تاریخ" HeaderTextAlignment="Alignment.Center" TextAlignment="Alignment.Center">
+            @context.CreatedAt
+        </GridColumn>
+        <GridColumn TItem="NoteVm" HeaderText="عملیات" TextAlignment="Alignment.Center" HeaderTextAlignment="Alignment.Center">
+           <Button @onclick="()=>RemoveNote(context.Id)" Type="ButtonType.Button" Color="ButtonColor.Danger" >حذف</Button>
+        </GridColumn>
+    </GridColumns>
+</Grid>
+
+<Modal @ref="CreateNoteModal" Title="Modal title">
+    <BodyTemplate>
+        <EditForm Model="CreateNoteVm" OnValidSubmit="CreateNote" >
+            <DataAnnotationsValidator />
+            <div class="form-group row mb-3">
+                <label class="col-md-2 col-form-label">موضوع: <span class="text-danger">*</span></label>
+                <div class="col-md-10">
+                    <TextInput @bind-Value="@CreateNoteVm.Title" Placeholder="موضوع"/>
+                    <ValidationMessage For="@(() => CreateNoteVm.Title)"/>
+                </div>
+            </div>
+            <div class="form-group row mb-3">
+                <label class="col-md-2 col-form-label">متن: </label>
+                <div class="col-md-10">
+                    <TextInput @bind-Value="@CreateNoteVm.Content" Placeholder="متن"/>
+                    <ValidationMessage For="@(() => CreateNoteVm.Content)"/>
+                </div>
+            </div>
+            <Button  Color="ButtonColor.Success" Type="ButtonType.Submit"  >ثبت</Button>
+            <Button Color="ButtonColor.Secondary" @onclick="()=>CreateNoteModal.HideAsync()">Close</Button>
+        </EditForm>
+    </BodyTemplate>
+</Modal>

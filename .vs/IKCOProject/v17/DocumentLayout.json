@@ -1,0 +1,717 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\response\\basecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\response\\basecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92B72F8-F358-46FF-A56B-36D175A2735D}|IKCOProject.Persistence\\IKCOProject.Persistence.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.persistence\\persistenceservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92B72F8-F358-46FF-A56B-36D175A2735D}|IKCOProject.Persistence\\IKCOProject.Persistence.csproj|solutionrelative:ikcoproject.persistence\\persistenceservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E223B1C-5BD7-474F-8BC6-00FC685EA33C}|IKCOProject.Domain\\IKCOProject.Domain.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.domain\\entity\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E223B1C-5BD7-474F-8BC6-00FC685EA33C}|IKCOProject.Domain\\IKCOProject.Domain.csproj|solutionrelative:ikcoproject.domain\\entity\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\features\\note\\handlers\\commands\\createnotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\features\\note\\handlers\\commands\\createnotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\features\\note\\handlers\\commands\\deletenotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\features\\note\\handlers\\commands\\deletenotecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\contract\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\contract\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\pages\\note.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\pages\\note.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\pages\\note.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\pages\\note.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\model\\notemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\model\\notemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\services\\base\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\services\\base\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\services\\base\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\services\\base\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\services\\base\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\services\\base\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\model\\common\\basecommandresponsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\model\\common\\basecommandresponsevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.blazor\\components\\services\\base\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7775B-B286-4236-940D-473B9ECC6B75}|IKCOProject.Blazor\\IKCOProject.Blazor.csproj|solutionrelative:ikcoproject.blazor\\components\\services\\base\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E223B1C-5BD7-474F-8BC6-00FC685EA33C}|IKCOProject.Domain\\IKCOProject.Domain.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.domain\\ikcoproject.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E223B1C-5BD7-474F-8BC6-00FC685EA33C}|IKCOProject.Domain\\IKCOProject.Domain.csproj|solutionrelative:ikcoproject.domain\\ikcoproject.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\dtos\\note\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\dtos\\note\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\dtos\\note\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\dtos\\note\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933C4CB8-80AD-4849-BB03-2B452E28CC21}|IKCOProject.Api\\IKCOProject.Api.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{933C4CB8-80AD-4849-BB03-2B452E28CC21}|IKCOProject.Api\\IKCOProject.Api.csproj|solutionrelative:ikcoproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933C4CB8-80AD-4849-BB03-2B452E28CC21}|IKCOProject.Api\\IKCOProject.Api.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933C4CB8-80AD-4849-BB03-2B452E28CC21}|IKCOProject.Api\\IKCOProject.Api.csproj|solutionrelative:ikcoproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933C4CB8-80AD-4849-BB03-2B452E28CC21}|IKCOProject.Api\\IKCOProject.Api.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.api\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933C4CB8-80AD-4849-BB03-2B452E28CC21}|IKCOProject.Api\\IKCOProject.Api.csproj|solutionrelative:ikcoproject.api\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\features\\note\\requests\\queries\\getallnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\features\\note\\requests\\queries\\getallnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\features\\note\\handlers\\queries\\getallnoterequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\features\\note\\handlers\\queries\\getallnoterequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92B72F8-F358-46FF-A56B-36D175A2735D}|IKCOProject.Persistence\\IKCOProject.Persistence.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.persistence\\contexts\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92B72F8-F358-46FF-A56B-36D175A2735D}|IKCOProject.Persistence\\IKCOProject.Persistence.csproj|solutionrelative:ikcoproject.persistence\\contexts\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92B72F8-F358-46FF-A56B-36D175A2735D}|IKCOProject.Persistence\\IKCOProject.Persistence.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.persistence\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92B72F8-F358-46FF-A56B-36D175A2735D}|IKCOProject.Persistence\\IKCOProject.Persistence.csproj|solutionrelative:ikcoproject.persistence\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\features\\note\\requests\\commands\\deletenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\features\\note\\requests\\commands\\deletenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\contracts\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\contracts\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\features\\note\\requests\\commands\\createnotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\features\\note\\requests\\commands\\createnotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92B72F8-F358-46FF-A56B-36D175A2735D}|IKCOProject.Persistence\\IKCOProject.Persistence.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.persistence\\configuration\\noteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92B72F8-F358-46FF-A56B-36D175A2735D}|IKCOProject.Persistence\\IKCOProject.Persistence.csproj|solutionrelative:ikcoproject.persistence\\configuration\\noteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.application\\dtos\\note\\validator\\createnotedtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C50094-A4BE-40DF-8A86-9073D8D21F59}|IKCOProject.Application\\IKCOProject.Application.csproj|solutionrelative:ikcoproject.application\\dtos\\note\\validator\\createnotedtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92B72F8-F358-46FF-A56B-36D175A2735D}|IKCOProject.Persistence\\IKCOProject.Persistence.csproj|c:\\users\\mohammad\\source\\repos\\ikcoproject\\ikcoproject.persistence\\migrations\\20250926082434_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92B72F8-F358-46FF-A56B-36D175A2735D}|IKCOProject.Persistence\\IKCOProject.Persistence.csproj|solutionrelative:ikcoproject.persistence\\migrations\\20250926082434_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 86,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1974755157:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:330116774:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1074144:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:777694747:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:942794429:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1180718051:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:814081906:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:321012036:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1867414736:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1595037757:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2138534612:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:388039795:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1953954434:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:633428764:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\App.razor",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:26:31.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\ApplicationServicesRegistration.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\ApplicationServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\ApplicationServicesRegistration.cs",
+              "RelativeToolTip": "IKCOProject.Application\\ApplicationServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:11:34.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersistenceServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Persistence\\PersistenceServicesRegistration.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Persistence\\PersistenceServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Persistence\\PersistenceServicesRegistration.cs",
+              "RelativeToolTip": "IKCOProject.Persistence\\PersistenceServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:08:43.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Domain\\Entity\\Note.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Domain\\Entity\\Note.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Domain\\Entity\\Note.cs",
+              "RelativeToolTip": "IKCOProject.Domain\\Entity\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:28:09.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\NoteService.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Services\\NoteService.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\NoteService.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Services\\NoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:42:02.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Response\\BaseCommandResponse.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Response\\BaseCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Response\\BaseCommandResponse.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Response\\BaseCommandResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:53:23.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:32:29.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Routes.razor",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:31:31.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateNoteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Handlers\\Commands\\CreateNoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Features\\Note\\Handlers\\Commands\\CreateNoteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Handlers\\Commands\\CreateNoteCommandHandler.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Features\\Note\\Handlers\\Commands\\CreateNoteCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:51:41.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteNoteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Handlers\\Commands\\DeleteNoteCommandHandler.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Features\\Note\\Handlers\\Commands\\DeleteNoteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Handlers\\Commands\\DeleteNoteCommandHandler.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Features\\Note\\Handlers\\Commands\\DeleteNoteCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:52:10.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:26:27.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Contract\\INoteService.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Contract\\INoteService.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Contract\\INoteService.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Contract\\INoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:41:20.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Note.razor",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Pages\\Note.razor",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Pages\\Note.razor",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Pages\\Note.razor",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Pages\\Note.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T08:55:37.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Program.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:30:54.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Note.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Pages\\Note.razor.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Pages\\Note.razor.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Pages\\Note.razor.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Pages\\Note.razor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:55:56.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NoteModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Model\\NoteModel.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Model\\NoteModel.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Model\\NoteModel.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Model\\NoteModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:27:27.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\appsettings.json",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\appsettings.json",
+              "RelativeToolTip": "IKCOProject.Blazor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T08:53:09.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseHttpService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\Base\\BaseHttpService.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Services\\Base\\BaseHttpService.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\Base\\BaseHttpService.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Services\\Base\\BaseHttpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:42:38.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceClient.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\Base\\ServiceClient.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Services\\Base\\ServiceClient.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\Base\\ServiceClient.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Services\\Base\\ServiceClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:39:03.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\Base\\Client.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Services\\Base\\Client.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\Base\\Client.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Services\\Base\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:32:21.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\Base\\IClient.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Services\\Base\\IClient.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\Base\\IClient.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Services\\Base\\IClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:32:26.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseCommandResponseVm.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Model\\Common\\BaseCommandResponseVm.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Model\\Common\\BaseCommandResponseVm.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Model\\Common\\BaseCommandResponseVm.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Model\\Common\\BaseCommandResponseVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:48:08.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\Base\\Response.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Blazor\\Components\\Services\\Base\\Response.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\Components\\Services\\Base\\Response.cs",
+              "RelativeToolTip": "IKCOProject.Blazor\\Components\\Services\\Base\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:43:58.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IKCOProject.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Domain\\IKCOProject.Domain.csproj",
+              "RelativeDocumentMoniker": "IKCOProject.Domain\\IKCOProject.Domain.csproj",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Domain\\IKCOProject.Domain.csproj",
+              "RelativeToolTip": "IKCOProject.Domain\\IKCOProject.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T08:30:52.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Dtos\\Note\\NoteDto.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Dtos\\Note\\NoteDto.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Dtos\\Note\\NoteDto.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Dtos\\Note\\NoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:38:12.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Dtos\\Note\\CreateNoteDto.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Dtos\\Note\\CreateNoteDto.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Dtos\\Note\\CreateNoteDto.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Dtos\\Note\\CreateNoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:37:59.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250926082434_init.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Persistence\\Migrations\\20250926082434_init.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Persistence\\Migrations\\20250926082434_init.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Persistence\\Migrations\\20250926082434_init.cs",
+              "RelativeToolTip": "IKCOProject.Persistence\\Migrations\\20250926082434_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:24:35.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "IKCOProject.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Api\\appsettings.json",
+              "RelativeToolTip": "IKCOProject.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T08:21:50.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Api\\Program.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Api\\Program.cs",
+              "RelativeToolTip": "IKCOProject.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:20:57.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Api\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Api\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Api\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "IKCOProject.Api\\Controllers\\NoteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:15:31.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetAllNoteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Requests\\Queries\\GetAllNoteRequest.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Features\\Note\\Requests\\Queries\\GetAllNoteRequest.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Requests\\Queries\\GetAllNoteRequest.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Features\\Note\\Requests\\Queries\\GetAllNoteRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:52:41.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetAllNoteRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Handlers\\Queries\\GetAllNoteRequestHandler.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Features\\Note\\Handlers\\Queries\\GetAllNoteRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Handlers\\Queries\\GetAllNoteRequestHandler.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Features\\Note\\Handlers\\Queries\\GetAllNoteRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:52:32.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Persistence\\Contexts\\ToDoDbContext.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Persistence\\Contexts\\ToDoDbContext.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Persistence\\Contexts\\ToDoDbContext.cs",
+              "RelativeToolTip": "IKCOProject.Persistence\\Contexts\\ToDoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:35:08.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Persistence\\Repositories\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Persistence\\Repositories\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Persistence\\Repositories\\NoteRepository.cs",
+              "RelativeToolTip": "IKCOProject.Persistence\\Repositories\\NoteRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:37:10.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteNoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Requests\\Commands\\DeleteNoteCommand.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Features\\Note\\Requests\\Commands\\DeleteNoteCommand.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Requests\\Commands\\DeleteNoteCommand.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Features\\Note\\Requests\\Commands\\DeleteNoteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:51:59.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "INoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Contracts\\INoteRepository.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Contracts\\INoteRepository.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Contracts\\INoteRepository.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Contracts\\INoteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:36:49.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateNoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Requests\\Commands\\CreateNoteCommand.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Features\\Note\\Requests\\Commands\\CreateNoteCommand.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Features\\Note\\Requests\\Commands\\CreateNoteCommand.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Features\\Note\\Requests\\Commands\\CreateNoteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:51:48.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateNoteDtoValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Dtos\\Note\\Validator\\CreateNoteDtoValidation.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Application\\Dtos\\Note\\Validator\\CreateNoteDtoValidation.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Application\\Dtos\\Note\\Validator\\CreateNoteDtoValidation.cs",
+              "RelativeToolTip": "IKCOProject.Application\\Dtos\\Note\\Validator\\CreateNoteDtoValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:47:34.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NoteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Persistence\\Configuration\\NoteConfiguration.cs",
+              "RelativeDocumentMoniker": "IKCOProject.Persistence\\Configuration\\NoteConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Persistence\\Configuration\\NoteConfiguration.cs",
+              "RelativeToolTip": "IKCOProject.Persistence\\Configuration\\NoteConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:30:24.525Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

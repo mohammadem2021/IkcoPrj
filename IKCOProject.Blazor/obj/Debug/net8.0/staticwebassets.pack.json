@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mohammad\\source\\repos\\IKCOProject\\IKCOProject.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IKCOProject.Blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IKCOProject.Blazor.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IKCOProject.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IKCOProject.Blazor.props",
+      "PackagePath": "build\\IKCOProject.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IKCOProject.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\IKCOProject.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IKCOProject.Blazor.props",
+      "PackagePath": "buildTransitive\\IKCOProject.Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
